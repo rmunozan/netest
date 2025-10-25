@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fast-speedtest-api": "^0.3.2",
+    "ping": "^0.4.4",
+    "promise-socket": "^8.0.0"
+  }
+}
